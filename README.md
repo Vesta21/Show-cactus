@@ -1,6 +1,6 @@
-# Show-cactus
+# Snow-cactus
 
-Название проекта: Show cactus
+Название проекта: Snow cactus
 
 Участники команды: Безбородова Е.В
 
