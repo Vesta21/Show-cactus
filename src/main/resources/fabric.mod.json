@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "snow-cactus",
+  "version": "${version}",
+  "name": "Snow-cactus",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/snow-cactus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+
+
+    "main": [
+      "ru.college.snowCactus.SnowCactus"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
+
